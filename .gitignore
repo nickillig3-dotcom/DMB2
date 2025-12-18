@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Local data/logs
+data/
+logs/
+
+# Secrets
+.env
+*.key
+*.pem
+
+# OS / editor
+.DS_Store
+.vscode/
+wichtigebefehle
